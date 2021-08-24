@@ -1,0 +1,23 @@
+{
+  "name": "e-commerce",
+  "version": "0.0.1",
+  "description": "A simple Js e-commerce",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Palvoluss/E-Commerce.git"
+  },
+  "author": "Pablomicheletti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Palvoluss/E-Commerce/issues"
+  },
+  "homepage": "https://github.com/Palvoluss/E-Commerce#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
