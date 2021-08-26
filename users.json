@@ -1,0 +1,17 @@
+[
+  {
+    "email": "test@test1.com",
+    "password": "ciao",
+    "id": "5340dd7c"
+  },
+  {
+    "email": "test2@test.it",
+    "password": "b05196880881c749b6031a49fcfcc2cc7563370e410acd17d9ea6f3df5e17e030e1b187232fe844f62c47683c9f7b6fb6006cde0ced35930f5762456e892fa76.dc58e04992952c06",
+    "id": "031e6378"
+  },
+  {
+    "email": "test10@test.it",
+    "password": "bbf38cbf2538708cc23f195af24a9b30438f4a8a0391f5f780bb75d63ddd70247b970f2549305c92140e7b556211e14624a3016421a2c7104dcd559856de6418.a770903421c8eb1d",
+    "id": "13a89afa"
+  }
+]
