@@ -1,6 +1,6 @@
 {
   "name": "e-commerce",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A simple Js e-commerce",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Palvoluss/E-Commerce#readme",
   "dependencies": {
+    "cookie-session": "^1.4.0",
     "express": "^4.17.1",
     "nodemon": "^2.0.12"
   }
