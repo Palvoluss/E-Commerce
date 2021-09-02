@@ -18,5 +18,15 @@
     "email": "random1@mail.com",
     "password": "0e55b4778972c0a5ea0f1324c933fdcf705b4f548782fb8f644e0bab5e6ea43d241fdeeac9e95918daece914c3237d59c55e2373100f153face29e88e9166f7d.0ec39cdbdc08cbc0",
     "id": "f2ddce03"
+  },
+  {
+    "email": "test19@test.it",
+    "password": "d6f7609ad18f3051e4c65b2c9120e4cd9d42cc5dee7a477127e9400b410706733190d2b0b0be471e25e0df5e7d9902dbe2626d43064a2b6b3dc05f3951c17086.1d7de961e3502c3c",
+    "id": "5754b058"
+  },
+  {
+    "email": "test22@test.it",
+    "password": "567171c47738b82369a328915026a4d5108515216d1a7340003df44a77b9217ff78e250f1a558f83cd254ce37a4effd0ae2fd6cf173881043f9efd8ad2d5e1a9.c87046924ff64789",
+    "id": "1e3242b0"
   }
 ]
