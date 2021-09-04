@@ -1,7 +1,9 @@
 const express = require("express");
 const cookieSession = require('cookie-session');
 const authRouter = require('./routes/admin/auth');
-const productRouter = require('./routes/admin/products')
+const adminProductsRouter = require('./routes/admin/products');
+const productsRouter = require('./routes/products')
+const cartRouter = require('./routes/carts')
 
 const app = express();
 
@@ -12,7 +14,9 @@ app.use(cookieSession({
 }))
 
 app.use(authRouter)
-app.use(productRouter)
+app.use(adminProductsRouter)
+app.use(productsRouter)
+app.use(cartRouter)
 
 
 
